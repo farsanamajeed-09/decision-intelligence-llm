@@ -68,31 +68,32 @@ Source: Kaggle – Olist Brazilian E-Commerce
 - LLM-powered explanations
 - Production ML structure
 
-## Project Structure
+## 📁 Project Structure
 
+```text
 decision-intelligence-llm/
 │
 ├── data/
-│ ├── raw/
-│ └── processed/
+│   ├── raw/
+│   └── processed/
 │
 ├── notebooks/
-│ ├── 01_data_exploration.ipynb
-│ ├── 02_feature_engineering.ipynb
-│ └── 03_simulation_model.ipynb
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_feature_engineering.ipynb
+│   └── 03_simulation_model.ipynb
 │
 ├── src/
-│ ├── data_pipeline.py
-│ ├── simulation_engine.py
-│ ├── decision_logic.py
-│ └── llm_explainer.py
+│   ├── data_pipeline.py
+│   ├── simulation_engine.py
+│   ├── decision_logic.py
+│   └── llm_explainer.py
 │
 ├── outputs/
-│ └── reports/
+│   └── reports/
 │
-├── README.md
-└── requirements.txt
-
+├── requirements.txt
+└── README.md
+```
 ## How to Run
 
 1. Clone the repository
