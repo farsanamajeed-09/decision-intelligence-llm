@@ -97,7 +97,9 @@ decision-intelligence-llm/
 ## How to Run
 
 1. Clone the repository
+```bash
 git clone https://github.com/farsanamajeed-09/decision-intelligence-llm.git
+```
 
 2. Install dependencies
 pip install -r requirements.txt
